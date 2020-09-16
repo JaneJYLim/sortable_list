@@ -1,4 +1,4 @@
-## sortable_list
+# sortable_list
 
 ### 구현내용
 <ol>
