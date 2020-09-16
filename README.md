@@ -1,7 +1,7 @@
 # sortable_list
 
 ## 자바스크립트를 이용해서 새로운 태그를 만들고 가공해서 index.html의 특정 태그의 자식 태그로 삽입.
-  push 메소드를 사용하여 Array에 특정 요소를 넣음.
+ ###  push 메소드를 사용하여 Array에 특정 요소를 넣음.
   특정 태그의 id 속성을 자바스크립트를 이용해 설정.
   local storage에는 자바스크립트의 데이터 형식으로 저장할 수 없기 때문에, string으로 저장해야 한다.
   JSON : JavaScript Object Notation의 약어.
